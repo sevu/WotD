@@ -1,0 +1,3545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2017-02-02 04:34 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [campaign]: id=War of the Dragon
+#: _main.cfg:10
+msgid "War of the Dragon"
+msgstr ""
+
+#. [campaign]: id=War of the Dragon
+#: _main.cfg:11
+msgid "WotD"
+msgstr ""
+
+#. [campaign]: id=War of the Dragon
+#: _main.cfg:17
+msgid ""
+"The Age of the Dragon has begun, and the first event is the War of the "
+"Dragon. The Dark Dragon Kzardizin (Kzar-diz-in) has awoken from his "
+"millennium sleep, and intends to conquer the world before he must sleep "
+"again. The prophecy of Miriam says that either he will succeed, or he will "
+"be forced back into sleep by three champions, one from the west, one from "
+"the north, and one from the east. Now the world has been ignited in war on "
+"many fronts, and the windsong prepare to face the on-coming war."
+msgstr ""
+
+#. [campaign]: id=War of the Dragon
+#: _main.cfg:20
+msgid "Version"
+msgstr ""
+
+#. [campaign]: id=War of the Dragon
+#: _main.cfg:21
+msgid "alpha"
+msgstr ""
+
+#. [campaign]: id=War of the Dragon
+#: _main.cfg:27
+msgid "You need to install Era of Myths before playing this campaign!"
+msgstr ""
+
+#. [campaign]: id=War of the Dragon
+#: _main.cfg:32
+msgid "You need Era of Myths in order to play this campaign."
+msgstr ""
+
+#. [difficulty]
+#: _main.cfg:52
+msgid "easiest"
+msgstr ""
+
+#. [difficulty]
+#: _main.cfg:69
+msgid "hardest"
+msgstr ""
+
+#. [about]
+#: credits.cfg:10
+msgid "Oathkeeper"
+msgstr ""
+
+#. [about]
+#: credits.cfg:11
+msgid "Benjamin Bottorff (Velensk)"
+msgstr ""
+
+#. [message]: id=Alloria
+#: units/general.cfg:12
+msgid "Worlds..."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#. [message]: id=Ruegur
+#: units/general.cfg:25 scenarios/08_Battle_with_the_Unseen.cfg:208
+msgid "..."
+msgstr ""
+
+#. [message]: id=Alloria
+#: units/general.cfg:29
+msgid "She had a part to play..."
+msgstr ""
+
+#. [message]: id=Alloria
+#: units/general.cfg:42
+msgid "One of the champions has fallen."
+msgstr ""
+
+#. [message]: id=Alloria
+#: units/general.cfg:55
+msgid "We needed his skills."
+msgstr ""
+
+#. [message]: id=Will
+#: units/general.cfg:68
+msgid ".... My service is over (vanishes)"
+msgstr ""
+
+#. [message]: id=Hawken
+#: units/general.cfg:78
+msgid "!...."
+msgstr ""
+
+#. [unit_type]: id=WotD_Child, race=EOM_therian
+#: units/therian/Child.cfg:5
+msgid "Therian Civilian"
+msgstr ""
+
+#. [unit_type]: id=WotD_Child, race=EOM_therian
+#: units/therian/Child.cfg:19
+msgid "The Therians place huge importance on family."
+msgstr ""
+
+#. [unit_type]: id=tWotD_Hydra, race=monster
+#: units/monsters/Hydra.cfg:5
+msgid "Hydra"
+msgstr ""
+
+#. [unit_type]: id=tWotD_Hydra, race=monster
+#: units/monsters/Hydra.cfg:18
+msgid ""
+"The Hydra is an monster that has terrorized the land for many years, they do "
+"not die easily, and once dead, they tend not to stay dead. They are great "
+"beasts with several heads that re-grow when chopped off. A mighty hero once "
+"found that fire worked to stop them from re-growing their heads quickly, but "
+"even that was only a temporary measure."
+msgstr ""
+
+#. [unit_type]: id=twotd_Mino, race=monster
+#: units/monsters/Minotaur.cfg:7
+msgid "Minotaur"
+msgstr ""
+
+#. [unit_type]: id=twotd_Mino, race=monster
+#: units/monsters/Minotaur.cfg:22
+msgid ""
+"Minotaurs are large beasts. Though strong, and physically intimidating, they "
+"are not overly intelligent. Kzardizin chooses to arm his minotaur minions "
+"with large scythes."
+msgstr ""
+
+#. [attack]: type=blade
+#: units/monsters/Minotaur.cfg:27
+msgid "scythe"
+msgstr ""
+
+#. [unit_type]: id=Dark Dragon, race=monster
+#: units/monsters/Dark_Dragon.cfg:5
+msgid "Dark Dragon"
+msgstr ""
+
+#. [unit_type]: id=Dark Dragon, race=monster
+#: units/monsters/Dark_Dragon.cfg:19
+msgid ""
+"Dark Dragons are immortal creatures, and are probably the most powerful "
+"representation of the power of the dark to manifest in the world."
+msgstr ""
+
+#. [attack]: type=cold
+#: units/monsters/Dark_Dragon.cfg:54
+msgid "sorcery"
+msgstr ""
+
+#. [trait]: id=legend
+#: units/traits.cfg:6
+msgid "legendary"
+msgstr ""
+
+#. [trait]: id=legend
+#: units/traits.cfg:7
+msgid "female^legendary"
+msgstr ""
+
+#. [trait]: id=legend
+#: units/traits.cfg:8
+msgid ""
+"Some people are simply incredible. They seem to have an edge in every area "
+"over others. Such units benefit from all standard traits."
+msgstr ""
+
+#. [regenerate]: id=hydra
+#: units/abilities.cfg:8
+msgid "hydra"
+msgstr ""
+
+#. [regenerate]: id=hydra
+#: units/abilities.cfg:9
+msgid ""
+"The Hydras regeneration powers are unmatched, and will regain 16 hp instead "
+"of the normal amount."
+msgstr ""
+
+#. [hides]: id=invisible
+#: units/abilities.cfg:31 units/abilities.cfg:32
+msgid "invisible"
+msgstr ""
+
+#. [hides]: id=invisible
+#: units/abilities.cfg:33
+msgid "The dragon has made this enemy invisible."
+msgstr ""
+
+#. [unit_type]: id=inv_Drake Thrasher, race=drake
+#. [unit_type]: id=inv_Drake Warrior, race=drake
+#. [unit_type]: id=inv_Mino, race=monster
+#. [unit_type]: id=inv_Fire Drake, race=drake
+#. [unit_type]: id=inv_Young Ogre, race=ogre
+#. [unit_type]: id=inv_Inferno Drake, race=drake
+#. [unit_type]: id=inv_Drake Blademaster, race=drake
+#. [unit_type]: id=inv_Drake Burner, race=drake
+#. [unit_type]: id=inv_Drake Fighter, race=drake
+#. [unit_type]: id=inv_Giant Mudcrawler, race=monster
+#. [unit_type]: id=inv_Drake Clasher, race=drake
+#. [unit_type]: id=inv_Hurricane Drake, race=drake
+#. [side]: type=inv_Mino, id=e1
+#. [unit]: type=inv_Drake Blademaster, id=minion
+#. [unit]: type=inv_Drake Blademaster, id=minion2
+#. [unit]: type=inv_Drake Blademaster, id=minion3
+#. [unit]: type=inv_Drake Blademaster, id=minion4
+#. [unit]: type=inv_Inferno Drake, id=minion5
+#. [unit]: type=inv_Inferno Drake, id=minion6
+#. [unit]: type=inv_Inferno Drake, id=minion7
+#. [unit]: type=inv_Drake Blademaster, id=minion8
+#. [unit]: type=inv_Drake Blademaster, id=minion9
+#. [unit]: type=inv_Drake Blademaster, id=minion10
+#: units/inv_foes/inv_Trasher.cfg:7 units/inv_foes/inv_Warrior.cfg:7
+#: units/inv_foes/inv_Minotaur.cfg:7 units/inv_foes/inv_Fire.cfg:7
+#: units/inv_foes/inv_Young_Ogre.cfg:7 units/inv_foes/inv_Inferno.cfg:7
+#: units/inv_foes/inv_Blademaster.cfg:7 units/inv_foes/inv_Burner.cfg:7
+#: units/inv_foes/inv_Fighter.cfg:7 units/inv_foes/inv_Giant_Mudcrawler.cfg:7
+#: units/inv_foes/inv_Clasher.cfg:7 units/inv_foes/inv_Hurricane.cfg:7
+#: scenarios/08_Battle_with_the_Unseen.cfg:130
+#: scenarios/07_Fleeing_the_Dragon.cfg:500
+#: scenarios/07_Fleeing_the_Dragon.cfg:507
+#: scenarios/07_Fleeing_the_Dragon.cfg:514
+#: scenarios/07_Fleeing_the_Dragon.cfg:521
+#: scenarios/07_Fleeing_the_Dragon.cfg:528
+#: scenarios/07_Fleeing_the_Dragon.cfg:535
+#: scenarios/07_Fleeing_the_Dragon.cfg:542
+#: scenarios/07_Fleeing_the_Dragon.cfg:549
+#: scenarios/07_Fleeing_the_Dragon.cfg:556
+#: scenarios/07_Fleeing_the_Dragon.cfg:563
+msgid "Unseen"
+msgstr ""
+
+#. [unit_type]: id=inv_Drake Thrasher, race=drake
+#. [unit_type]: id=inv_Drake Warrior, race=drake
+#. [unit_type]: id=inv_Drake Blademaster, race=drake
+#. [unit_type]: id=inv_Drake Burner, race=drake
+#. [unit_type]: id=inv_Drake Fighter, race=drake
+#. [unit_type]: id=inv_Drake Clasher, race=drake
+#: units/inv_foes/inv_Trasher.cfg:21 units/inv_foes/inv_Warrior.cfg:19
+#: units/inv_foes/inv_Blademaster.cfg:20 units/inv_foes/inv_Burner.cfg:20
+#: units/inv_foes/inv_Fighter.cfg:19 units/inv_foes/inv_Clasher.cfg:20
+msgid "You cannot see this foe, but it smells like a drake."
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=pierce
+#. [attack]: type=impact
+#. [attack]: type=fire
+#: units/inv_foes/inv_Trasher.cfg:29 units/inv_foes/inv_Trasher.cfg:38
+#: units/inv_foes/inv_Trasher.cfg:47 units/inv_foes/inv_Minotaur.cfg:28
+#: units/inv_foes/inv_Young_Ogre.cfg:32 units/inv_foes/inv_Blademaster.cfg:28
+#: units/inv_foes/inv_Blademaster.cfg:37 units/inv_foes/inv_Burner.cfg:28
+#: units/inv_foes/inv_Burner.cfg:37 units/inv_foes/inv_Fighter.cfg:27
+#: units/inv_foes/inv_Fighter.cfg:36 units/inv_foes/inv_Giant_Mudcrawler.cfg:32
+#: units/inv_foes/inv_Giant_Mudcrawler.cfg:41 units/inv_foes/inv_Clasher.cfg:28
+#: units/inv_foes/inv_Clasher.cfg:37
+msgid "unseen"
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=fire
+#. [attack]: type=impact
+#: units/inv_foes/inv_Warrior.cfg:27 units/inv_foes/inv_Warrior.cfg:36
+#: units/inv_foes/inv_Fire.cfg:30 units/inv_foes/inv_Fire.cfg:39
+#: units/inv_foes/inv_Inferno.cfg:31 units/inv_foes/inv_Inferno.cfg:40
+#: units/inv_foes/inv_Hurricane.cfg:36 units/inv_foes/inv_Hurricane.cfg:45
+msgid "unknown"
+msgstr ""
+
+#. [unit_type]: id=inv_Mino, race=monster
+#. [unit_type]: id=inv_Young Ogre, race=ogre
+#: units/inv_foes/inv_Minotaur.cfg:20 units/inv_foes/inv_Young_Ogre.cfg:24
+msgid "You cannot see this foe."
+msgstr ""
+
+#. [unit_type]: id=inv_Fire Drake, race=drake
+#: units/inv_foes/inv_Fire.cfg:19
+msgid "You cannot see this foe, thus it is harder to hit."
+msgstr ""
+
+#. [unit_type]: id=inv_Inferno Drake, race=drake
+#: units/inv_foes/inv_Inferno.cfg:20
+msgid "You cannot see this foe, this makes them harder to hit."
+msgstr ""
+
+#. [unit_type]: id=inv_Giant Mudcrawler, race=monster
+#: units/inv_foes/inv_Giant_Mudcrawler.cfg:22
+msgid ""
+"Giant Mudcrawlers are a larger kind of Mudcrawler, and are magical "
+"constructs of soil and water. They attack by belching lumps of mud at their "
+"foes, or by striking them with their fists."
+msgstr ""
+
+#. [unit_type]: id=inv_Hurricane Drake, race=drake
+#: units/inv_foes/inv_Hurricane.cfg:20
+msgid "You cannot see this foe, this makes it extra hard to hit."
+msgstr ""
+
+#. [unit_type]: id=Great Tower, race=mechanical
+#: units/mechanical/Great_Tower.cfg:5
+msgid "Great Tower"
+msgstr ""
+
+#. [unit_type]: id=Great Tower, race=mechanical
+#: units/mechanical/Great_Tower.cfg:38
+msgid ""
+"The great towers are fortifications providing light and heavy weaponry "
+"support."
+msgstr ""
+
+#. [scenario]: id=Wotd_twelfth
+#: scenarios/12_Return.cfg:7
+msgid "Return to the Mainland"
+msgstr ""
+
+#. [side]: type=EOM_Prophetess, id=Alloria
+#. [unit]: id=fake, type=$AlloriaV.type
+#: scenarios/12_Return.cfg:40 scenarios/04_Devlings.cfg:39
+#: scenarios/13_Rescue.cfg:40 scenarios/14_Valemoi's_Ruins.cfg:41
+#: scenarios/08_Battle_with_the_Unseen.cfg:39 scenarios/03_Swift.cfg:39
+#: scenarios/01_Start.cfg:45 scenarios/06_Lisaundra's_Stand.cfg:38
+#: scenarios/06_Lisaundra's_Stand.cfg:145
+#: scenarios/11_Temple_of_the_Deep.cfg:35 scenarios/10_Pirates.cfg:40
+#: scenarios/02_Encounter.cfg:39 scenarios/07_Fleeing_the_Dragon.cfg:40
+#: scenarios/09_Taking_to_Sea.cfg:39 scenarios/05_Hydra.cfg:36
+msgid "Alloria"
+msgstr ""
+
+#. [side]: type=EOM_Sire, id=wleader
+#: scenarios/12_Return.cfg:55
+msgid "Count Vealizant"
+msgstr ""
+
+#. [part]
+#: scenarios/12_Return.cfg:63
+msgid ""
+"'Chapter XI:\n"
+"I make record of the creation of the Truth Shard.'"
+msgstr ""
+
+#. [part]
+#: scenarios/12_Return.cfg:67
+msgid ""
+"'The great smith Ruegur took a crystal imbued with ice power, and suspended "
+"it in water of truth with a rune.'"
+msgstr ""
+
+#. [part]
+#: scenarios/12_Return.cfg:70
+msgid ""
+"'Around the crystal formed a shell of ice which he proceeded to inscribe "
+"with runes to keep the shape intact.'"
+msgstr ""
+
+#. [part]
+#: scenarios/12_Return.cfg:73
+msgid ""
+"'For it to work, spoke he, you must carry it by your heart. This I did and "
+"the vision it gave me is more pure than anything even my prophecy had "
+"granted me. It was simple for me to focus it to dispel illusions.'"
+msgstr ""
+
+#. [part]
+#: scenarios/12_Return.cfg:76
+msgid ""
+"'The shard may be identified by having an outer shell like ice that won't "
+"melt with a clearly visible blue gem within. It will have at the heart of "
+"it's runes Thyne and Nam.'"
+msgstr ""
+
+#. [part]
+#: scenarios/12_Return.cfg:79
+msgid ""
+"'I return to an account of the war. After obtaining the truth shard we have "
+"set sail back to the celestials capital.'"
+msgstr ""
+
+#. [part]
+#: scenarios/12_Return.cfg:82
+msgid "'We have disembarked and sent the ships back to the city.'"
+msgstr ""
+
+#. [part]
+#: scenarios/12_Return.cfg:85
+msgid ""
+"'I sense that all is not well for I see no warriors of the light, only those "
+"of tainted blood.'"
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/12_Return.cfg:102
+msgid "What are you doing?"
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/12_Return.cfg:106
+msgid "What are you doing in Celestial lands?"
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/12_Return.cfg:110
+msgid ""
+"Celestial lands no longer. The dragon promised that once we had triumphed "
+"over your land, I'd be free to harvest the humans who'd agreed to let your "
+"kind 'protect' them."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/12_Return.cfg:114
+msgid "So sure of your victory over the Celestials?"
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/12_Return.cfg:118
+msgid ""
+"Fool. The celestials are finished. We've razed your capital to the ground "
+"and slain every man there. You have no more cities left. You are finished."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/12_Return.cfg:122
+msgid "The Celestial empire may be dead, but the dragon is hardly unopposed."
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/12_Return.cfg:126
+msgid ""
+"Aye, but as soon as we destroy Count Kromire in the east, and the Great "
+"Foundry in the north, there will be no power left with enough strength to "
+"resist."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/12_Return.cfg:130
+msgid ""
+"You were foolish to mention the Foundry. Until that point, I would have "
+"attempted to avoid blunting our strength by fighting you. Now we will have "
+"no mercy."
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/12_Return.cfg:134
+msgid "Ha! No quarter then!"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/12_Return.cfg:139
+msgid "Defeat Count Vealizant"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/12_Return.cfg:143 scenarios/04_Devlings.cfg:190
+#: scenarios/13_Rescue.cfg:211 scenarios/14_Valemoi's_Ruins.cfg:163
+#: scenarios/08_Battle_with_the_Unseen.cfg:233 scenarios/03_Swift.cfg:146
+#: scenarios/11_Temple_of_the_Deep.cfg:236 scenarios/10_Pirates.cfg:147
+#: scenarios/02_Encounter.cfg:113 scenarios/07_Fleeing_the_Dragon.cfg:246
+#: scenarios/09_Taking_to_Sea.cfg:481 scenarios/05_Hydra.cfg:272
+#: scenarios/05_Hydra.cfg:377
+msgid "Death of Alloria"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/12_Return.cfg:147 scenarios/13_Rescue.cfg:215
+#: scenarios/08_Battle_with_the_Unseen.cfg:241
+#: scenarios/11_Temple_of_the_Deep.cfg:244 scenarios/10_Pirates.cfg:155
+#: scenarios/09_Taking_to_Sea.cfg:489
+msgid "Death of Hector"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/12_Return.cfg:151 scenarios/13_Rescue.cfg:219
+#: scenarios/08_Battle_with_the_Unseen.cfg:237
+#: scenarios/11_Temple_of_the_Deep.cfg:240 scenarios/10_Pirates.cfg:151
+#: scenarios/09_Taking_to_Sea.cfg:485
+msgid "Death of Ruegur"
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/12_Return.cfg:161
+msgid "What now?"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/12_Return.cfg:165
+msgid ""
+"We collect our third champion. While we're at it, we should attempt to "
+"thwart the dragons offense against Kromire."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/12_Return.cfg:169
+msgid ""
+"I was almost sent to help Hezadin defeat Kromire, however they wanted use of "
+"my questers for scouting the Dragons forces."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/12_Return.cfg:173
+msgid ""
+"Then thank fortune you didn't. If that had been the case, then either you "
+"would have not survived, or we would not have received the prophecy and been "
+"able to prepare as quickly, and thus arrive in time to save you."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/12_Return.cfg:177
+msgid ""
+"I suppose we, 'we' being the celestials I served, should have sent word to "
+"the Windsong when Hezadin first spoke. I think we thought we could handle it "
+"ourselves, or did not even consider it. As it is, I owe my life to a vampire."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/12_Return.cfg:181
+msgid ""
+"Pride has long been a failing of the celestials. Do not be ashamed about "
+"owing your life to others. Besides, you may yet live to repay him. Kromire "
+"is a strong vampire lord, but I imagine that even he will have trouble if "
+"even half of the dragon armies come his way."
+msgstr ""
+
+#. [scenario]: id=Wotd_fourth
+#: scenarios/04_Devlings.cfg:6
+msgid "Broken Bridge"
+msgstr ""
+
+#. [side]: type=EOM_Offenders, id=dleader
+#: scenarios/04_Devlings.cfg:54
+msgid "Crass"
+msgstr ""
+
+#. [side]: type=EOM_Devling_Soldier, id=dleader2
+#: scenarios/04_Devlings.cfg:72
+msgid "Brash"
+msgstr ""
+
+#. [side]: type=EOM_Devling_Warrior, id=dleader3
+#: scenarios/04_Devlings.cfg:89
+msgid "Rude"
+msgstr ""
+
+#. [side]: type=White Mage, id=Hawken
+#: scenarios/04_Devlings.cfg:106
+msgid "Hawken"
+msgstr ""
+
+#. [part]
+#: scenarios/04_Devlings.cfg:128
+msgid ""
+"Chapter III:\n"
+"'After passing the humans who attempted to destroy us, we agreed that it "
+"would be best to avoid human settlements. We currently tramp west through "
+"the wilderness.'"
+msgstr ""
+
+#. [part]
+#: scenarios/04_Devlings.cfg:132
+msgid ""
+"'We have found one of the branches that leads to the deep river, and "
+"followed it, leaving it only to evade the occasional outpost that tended to "
+"be set up around the bridges.'"
+msgstr ""
+
+#. [part]
+#: scenarios/04_Devlings.cfg:135
+msgid "'The past week has been uneventful.'"
+msgstr ""
+
+#. [part]
+#: scenarios/04_Devlings.cfg:138
+msgid ""
+"'It has been two days since the last message, but our travels have been "
+"interrupted by the sight of human cavalry.'"
+msgstr ""
+
+#. [message]: id=scout
+#: scenarios/04_Devlings.cfg:149
+msgid ""
+"I don't know what you are doing here, but I appeal to you to help, our "
+"outpost is under an attack from devlings, and is in desperate need of help."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/04_Devlings.cfg:153
+msgid ""
+"We don't have time for this, we must reach Municks Bridge as soon as "
+"possible."
+msgstr ""
+
+#. [message]: id=scout
+#: scenarios/04_Devlings.cfg:157
+msgid ""
+"Havn't you heard? The bridge was destroyed by a hydra recently. King Halven "
+"of Taknosis thinks that it was on the Dragon's orders."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/04_Devlings.cfg:161
+msgid "He does not lie..."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/04_Devlings.cfg:165
+msgid ""
+"So much for crossing the deep river quickly, we'll have to go around through "
+"the mountains."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/04_Devlings.cfg:169
+msgid "Or to the other great bridge, named after the hero Harald."
+msgstr ""
+
+#. [message]: id=scout
+#: scenarios/04_Devlings.cfg:173
+msgid "Won't you please help us?"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/04_Devlings.cfg:177
+msgid ""
+"Since our trip is going to take awhile, we might as well help them. Devlings "
+"are minions of Kzardizin, we can spare the time to eradicate them."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/04_Devlings.cfg:181
+msgid "As you will."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/04_Devlings.cfg:186 scenarios/14_Valemoi's_Ruins.cfg:159
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/04_Devlings.cfg:194
+msgid "Death of Hawken"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/04_Devlings.cfg:206
+msgid "This failure is intolerable."
+msgstr ""
+
+#. [message]: id=Hawken
+#: scenarios/04_Devlings.cfg:217
+msgid "We thank send thanks for your help."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/04_Devlings.cfg:221
+msgid "We must be going we have a long trail, and are in a great hurry."
+msgstr ""
+
+#. [message]: id=Hawken
+#: scenarios/04_Devlings.cfg:225
+msgid "I'd like to help you if I can."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/04_Devlings.cfg:229
+msgid ""
+"Unless you can summon a great magic to help us cross the deep river I don't "
+"know what you could do."
+msgstr ""
+
+#. [message]: id=Hawken
+#: scenarios/04_Devlings.cfg:233
+msgid ""
+"No, but I know a way to get across the river without going into the "
+"mountains, or across the northwest steppes."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/04_Devlings.cfg:237
+msgid "What way is this?"
+msgstr ""
+
+#. [message]: id=Hawken
+#: scenarios/04_Devlings.cfg:241
+msgid ""
+"As you know, the great river comes forth from a great maw in the mountains. "
+"There are other ways into the caves. You could enter the caves and "
+"transverse to the other side within."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/04_Devlings.cfg:245
+msgid ""
+"If that would be quicker than any other crossing, then that is the way we "
+"will go."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/04_Devlings.cfg:249
+msgid "I've been in the caves you speak of, and they are a dangerous place."
+msgstr ""
+
+#. [message]: id=Hawken
+#: scenarios/04_Devlings.cfg:253
+msgid ""
+"They likely have gotten worse of late. I'll come with you, I may not be a "
+"great magus, but I will try my best to make myself useful."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/04_Devlings.cfg:257
+msgid "We accept your service. Direct us to these caves."
+msgstr ""
+
+#. [scenario]: id=Wotd_thirteenth
+#: scenarios/13_Rescue.cfg:6
+msgid "Therians"
+msgstr ""
+
+#. [side]: type=Death Knight, id=uleader
+#: scenarios/13_Rescue.cfg:57
+msgid "Lord Hackhelm"
+msgstr ""
+
+#. [side]: type=Death Knight, id=u2leader
+#: scenarios/13_Rescue.cfg:73
+msgid "Lord Balken"
+msgstr ""
+
+#. [side]: type=EOM_King_Cobra, id=tleader
+#: scenarios/13_Rescue.cfg:96
+msgid "Alkali"
+msgstr ""
+
+#. [part]
+#: scenarios/13_Rescue.cfg:109
+msgid ""
+"'Chapter XIII:\n"
+"During our visit to the temple the Dragon had razed the celestials capital "
+"to the ground.'"
+msgstr ""
+
+#. [part]
+#: scenarios/13_Rescue.cfg:113
+msgid ""
+"'He now seeks to remove the other two factions strong enough to oppose him. "
+"Count Kromire the vampire and the Windsong. We seek to find our third "
+"champion and thwart his offense against Kromire by traveling the the Verence "
+"Mountains.'"
+msgstr ""
+
+#. [part]
+#: scenarios/13_Rescue.cfg:116
+msgid ""
+"'He seems to have turned his attention away from us for we were able to get "
+"to the foothills without encounter.'"
+msgstr ""
+
+#. [part]
+#: scenarios/13_Rescue.cfg:119
+msgid ""
+"'Another confirmation of the strange and disturbing alliance of undead and "
+"therian has come by a report from our scouts.'"
+msgstr ""
+
+#. [part]
+#: scenarios/13_Rescue.cfg:122
+msgid ""
+"'According to our scout a force of them marches towards us from the far side "
+"of the mountain blade and another mans a garrison on the near side that our "
+"map does not record.'"
+msgstr ""
+
+#. [part]
+#: scenarios/13_Rescue.cfg:125
+msgid ""
+"'A therian has just come from the wood hailing as a friend, it may be that "
+"he can explain these strange occurrences.'"
+msgstr ""
+
+#. [unit]: type=EOM_Sandskipper, id=Delk
+#: scenarios/13_Rescue.cfg:144
+msgid "Delk"
+msgstr ""
+
+#. [message]: id=Delk
+#: scenarios/13_Rescue.cfg:155
+msgid "Greetings."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/13_Rescue.cfg:159
+msgid ""
+"Greetings. Though I greet you, I am a bit troubled by the reports of your "
+"kind allying with undead and would hear what you have to say on the matter."
+msgstr ""
+
+#. [message]: id=Delk
+#: scenarios/13_Rescue.cfg:163
+msgid ""
+"That was why I came. Normally we would not ally with any necromancer however "
+"he took us by surprise and kidnapped our families. He has instructed us that "
+"should we even come near them before the war is over he will slay them and "
+"us too, however should we serve him faithfully he will grant them back to us "
+"unharmed."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/13_Rescue.cfg:167
+msgid "Do you really trust the Serpent?"
+msgstr ""
+
+#. [message]: id=Delk
+#: scenarios/13_Rescue.cfg:171
+msgid ""
+"I don't, but the elders seemed to do so and persuaded the warriors to agree "
+"with them."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/13_Rescue.cfg:175
+msgid ""
+"Actually I'm quite willing to believe that the Dragon would keep his word. "
+"It has never been recorded that any dragon has told a knowing lie. However, "
+"I can't let your people stand in our way."
+msgstr ""
+
+#. [message]: id=Delk
+#: scenarios/13_Rescue.cfg:179
+msgid ""
+"Hold and listen! I heard you were coming from this direction so I developed "
+"a plan. The garrison to the northwest is where our families are being held. "
+"If you could somehow free them before the guards could kill them then my "
+"people would surely turn to your side."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/13_Rescue.cfg:183
+msgid ""
+"Such a task would require specialized warriors however I think that may be "
+"within our capability. We should certainly attempt it."
+msgstr ""
+
+#. [message]: id=Delk
+#: scenarios/13_Rescue.cfg:187
+msgid "Then I swear to serve you till I die."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/13_Rescue.cfg:191
+msgid ""
+"(off to the side) You realize that even attempting to free the prisoners "
+"will turn the undead on the therians."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/13_Rescue.cfg:195
+msgid ""
+"Of course, that is part of the plan. It will take pressure off of us. the "
+"difference is that those ones are the ones who are armed and capable of "
+"defending themselves. Take care not to be seen by the garrison guards before "
+"you are ready to try to save the villagers"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/13_Rescue.cfg:203
+msgid "Defeat both undead leaders"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/13_Rescue.cfg:207
+msgid "Save the villagers to gain therian support"
+msgstr ""
+
+#. [message]: type=Death Knight
+#: scenarios/13_Rescue.cfg:265
+msgid ""
+"Someone is attempting to free the prisoners. Kill both them and the "
+"prisoners."
+msgstr ""
+
+#. [message]: id=tleader
+#: scenarios/13_Rescue.cfg:269
+msgid ""
+"The windsong are attempting to free the prisoners. We must try to aid them!"
+msgstr ""
+
+#. [message]: id=tleader
+#: scenarios/13_Rescue.cfg:305
+msgid ""
+"The windsong have caused our families to die! Slay them as well as the "
+"undead."
+msgstr ""
+
+#. [message]: race=EOM_therian,therian
+#: scenarios/13_Rescue.cfg:329
+msgid ""
+"We thank you for saving our families and ridding us of the undead captivity. "
+"Though many of our lives were lost we now have freedom."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/13_Rescue.cfg:333
+msgid ""
+"I am glad that you are no longer compelled to fight us. I would ask that you "
+"donate as many warriors as you can spare to our cause."
+msgstr ""
+
+#. [message]: race=EOM_therian,therian
+#: scenarios/13_Rescue.cfg:337
+msgid ""
+"There are not many of us left. We'll keep all our strongest warriors with us "
+"for protection, but send with you our young braves."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/13_Rescue.cfg:341
+msgid "If that is all you can spare, then that is all we'll request."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/13_Rescue.cfg:354
+msgid "This was a sad battle. The therians were not enemies we had to fight."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/13_Rescue.cfg:358
+msgid "... Let us move on."
+msgstr ""
+
+#. [scenario]: id=Wotd_fourteenth
+#: scenarios/14_Valemoi's_Ruins.cfg:6
+msgid "Valimoi Ruins"
+msgstr ""
+
+#. [side]: type=EOM_Noble, id=kleader
+#: scenarios/14_Valemoi's_Ruins.cfg:56
+msgid "Ruegen"
+msgstr ""
+
+#. [side]: type=Saurian Flanker, id=sleader
+#: scenarios/14_Valemoi's_Ruins.cfg:74
+msgid "Hyven"
+msgstr ""
+
+#. [side]: type=Necromancer, id=sleader
+#: scenarios/14_Valemoi's_Ruins.cfg:91
+msgid "Awkmenrod"
+msgstr ""
+
+#. [side]: type=Drake Flare, id=sleader
+#: scenarios/14_Valemoi's_Ruins.cfg:108
+msgid "Influence"
+msgstr ""
+
+#. [part]
+#: scenarios/14_Valemoi's_Ruins.cfg:117
+msgid ""
+"'Chapter XIII:\n"
+"We discovered why the therians would make such a strange alliance. The "
+"Dragon held their families captive and forced them to fight. These therians "
+"will trouble us no longer.'"
+msgstr ""
+
+#. [part]
+#: scenarios/14_Valemoi's_Ruins.cfg:121
+msgid ""
+"'We march around the mountain through the lowlands looking for the Valemoi "
+"Pass so that we can reach Kromire through a swift route.'"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/14_Valemoi's_Ruins.cfg:138
+msgid "Hold, I sense the enemy."
+msgstr ""
+
+#. [message]: id=Ruegur
+#: scenarios/14_Valemoi's_Ruins.cfg:142
+msgid "Where and what?"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/14_Valemoi's_Ruins.cfg:146
+msgid ""
+"Dragon bloods, undead, and vampire. I don't think that there are a large "
+"amount of any type. I don't know where for this landscape is alien to me."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/14_Valemoi's_Ruins.cfg:150
+msgid "We'll take them down where'er they hide."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/14_Valemoi's_Ruins.cfg:154
+msgid ""
+"Do not worry about their invisibility, by the time we engage them my spell "
+"will have done its work."
+msgstr ""
+
+#. [message]: id=Delk
+#: scenarios/14_Valemoi's_Ruins.cfg:178
+msgid ""
+"Any of these young therians who do not get recruited in this battle will be "
+"sent home."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/14_Valemoi's_Ruins.cfg:195
+msgid "Do not fight these vampires, they are minions of Kromire."
+msgstr ""
+
+#. [message]: race=EOM_vampire,vampire
+#: scenarios/14_Valemoi's_Ruins.cfg:199
+msgid "Indeed. Do not fight us for we are minions of Kromire. Who are you?"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/14_Valemoi's_Ruins.cfg:203
+msgid ""
+"I wish to meet your master, I have reason to believe that our interests are "
+"mutual."
+msgstr ""
+
+#. [message]: race=EOM_vampire,vampire
+#: scenarios/14_Valemoi's_Ruins.cfg:207
+msgid "If you fight the dragon I would assume so."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/14_Valemoi's_Ruins.cfg:215
+msgid "Now that the battle is over, take us to your master."
+msgstr ""
+
+#. [message]: id=kleader
+#: scenarios/14_Valemoi's_Ruins.cfg:219
+msgid "Yes."
+msgstr ""
+
+#. [scenario]: id=Wotd_eighth
+#: scenarios/08_Battle_with_the_Unseen.cfg:6
+msgid "Battle with the Unseen"
+msgstr ""
+
+#. [unit]: type=Dwarvish Runesmith, id=Ruegur
+#: scenarios/08_Battle_with_the_Unseen.cfg:46
+msgid "Ruegur"
+msgstr ""
+
+#. [side]: type=EOM_Claimant, id=cleader
+#: scenarios/08_Battle_with_the_Unseen.cfg:66
+msgid "Jerico"
+msgstr ""
+
+#. [side]: type=Paladin, id=Hector
+#: scenarios/08_Battle_with_the_Unseen.cfg:98
+msgid "Hector"
+msgstr ""
+
+#. [side]: type=Drake Blademaster, id=e1
+#: scenarios/08_Battle_with_the_Unseen.cfg:143
+msgid "Harno"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:153
+msgid ""
+"'Chapter VIII:\n"
+"We have just made it to safety.'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:157
+msgid "'The Celestials have granted us an escort to take us to the capital'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:160
+msgid ""
+"'The journey has taken us a week and a half, but we now stand before the "
+"gates of Brashard, the city of light.'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:163
+msgid "'I begin a record of my conversation with the celestial king.'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:166
+msgid ""
+"'Said the king to me, I am glad you have come, for my lands and people are "
+"in grave danger, and I have need of your lore.'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:169
+msgid "'Said the I to the king, We have need of your assistance as well.'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:172
+msgid ""
+"'Replied he, then let us deal, I need to acquire an artefact that will "
+"counter the dragons great illusion. To often my warriors have been hewn to "
+"the ground by a foe they could not see, then rose again to fight those whom "
+"lived. I must know of some way to counter this spell. I would also wish to "
+"know, what other magics he could bring to bear against me.'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:175
+msgid ""
+"'answered I, I must find a person, according to our records he will be a "
+"human of high standing in your lands, a valiant warrior. To answer your "
+"questions, I have read of a fountain of truth, whose water could wash away "
+"illusions. It may be that a cunning craftsman could use this water to "
+"fashion an artefact. I know not what other magics the dragon could bring to "
+"bear, but I'm sure they will be diverse and powerful.'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:178
+msgid ""
+"'Said he to I, I know of the man whom you seek. His name is Hector the "
+"human. He is stationed at the city of Pelouse. Now I must know, where is "
+"this fountain of which you have read?'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:181
+msgid ""
+"'Replied I to the king, It resides within the Temple of the Deep, which is "
+"at the center of the Sea of Eyes.'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:184
+msgid ""
+"'He was dismayed, for he knew his legions could not invade such a place. "
+"Plead he to me, that I take a craftsman to this temple, that he might be "
+"able to fashion an artefact.'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:187
+msgid ""
+"'I agreed to do such, and he sent for the craftsman whose name is Ruegur'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:190
+msgid ""
+"'As fortune would have it, both our objectives lay in a path. We could pick "
+"up Hector the Human, and head toward the Sea of Eyes at the same time.'"
+msgstr ""
+
+#. [part]
+#: scenarios/08_Battle_with_the_Unseen.cfg:193
+msgid ""
+"'We've travelled for a half a week and I can now see the city in the "
+"distance.'"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/08_Battle_with_the_Unseen.cfg:204
+msgid ""
+"The Celestials appear to have an army out in the field, I can see a lone "
+"Drake in the distance."
+msgstr ""
+
+#. [message]: id=Ruegur
+#: scenarios/08_Battle_with_the_Unseen.cfg:216
+msgid ""
+"He ain't alone. I imagine we've got quite a fight on our hands. I see Hector "
+"the Human, he's leading the troops on the field."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/08_Battle_with_the_Unseen.cfg:220
+msgid ""
+"It was foolish of him to engage the drakes on the field rather than hanging "
+"back in the castle."
+msgstr ""
+
+#. [message]: id=Ruegur
+#: scenarios/08_Battle_with_the_Unseen.cfg:224
+msgid ""
+"Maybe, but either way I imagine he's outmatched by his foes, we'll need to "
+"get some troops over there quickly."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/08_Battle_with_the_Unseen.cfg:229
+msgid "Defeat the Unseen foes"
+msgstr ""
+
+#. [message]: id=Will
+#: scenarios/08_Battle_with_the_Unseen.cfg:262
+msgid "Salutations"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/08_Battle_with_the_Unseen.cfg:266
+msgid ""
+"I'll admit to not expecting to see you again. How was the world of the "
+"faerie? We have no books about it."
+msgstr ""
+
+#. [message]: id=Will
+#: scenarios/08_Battle_with_the_Unseen.cfg:270
+msgid ""
+"The tale of my journeys beneath the earth are one for a different day, but I "
+"have much to thank you for. The journey was worth the frustration, and I owe "
+"you D'varce."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/08_Battle_with_the_Unseen.cfg:274
+msgid "D'varce?"
+msgstr ""
+
+#. [message]: id=Will
+#: scenarios/08_Battle_with_the_Unseen.cfg:278
+msgid ""
+"A faerie word. The closest equivalent is 'payment', but it doesn't quite "
+"match in connotations."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/08_Battle_with_the_Unseen.cfg:282
+msgid "I am sure your magics and service would be of great use to us."
+msgstr ""
+
+#. [message]: id=Will
+#: scenarios/08_Battle_with_the_Unseen.cfg:286
+msgid ""
+"Such is fitting. I'll also grant you a gift. I won this sceptre from the "
+"Faerie Queen herself. I don't know exactly what it does, other than she used "
+"it to command some sort of odd magic."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/08_Battle_with_the_Unseen.cfg:290
+msgid "Beware, many of our foes are unseen."
+msgstr ""
+
+#. [message]: id=Will
+#: scenarios/08_Battle_with_the_Unseen.cfg:294
+msgid ""
+"Then if I may offer a suggestion, the sky-shard crystals may have weak "
+"light, but it would be enough to expose foes for long enough to attack them "
+"more effectively."
+msgstr ""
+
+#. [object]: id=Scepter of Mir and Zol
+#: scenarios/08_Battle_with_the_Unseen.cfg:310
+msgid "Scepter of Mir and Zol"
+msgstr ""
+
+#. [object]: id=Scepter of Mir and Zol
+#: scenarios/08_Battle_with_the_Unseen.cfg:312
+msgid ""
+"As you seize the sceptre, a strange feeling of an alien power comes over "
+"you. As you search it you find two distinct spells. One cripples your foes, "
+"the other protects yourself."
+msgstr ""
+
+#. [effect]: type=arcane
+#. [language]
+#: scenarios/08_Battle_with_the_Unseen.cfg:320 utils/range.cfg:6
+msgid "Zol"
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/08_Battle_with_the_Unseen.cfg:373
+msgid ""
+"I thank thee for thy help. It was fortunate that you arrived when you did."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/08_Battle_with_the_Unseen.cfg:377
+msgid "We came looking for you."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/08_Battle_with_the_Unseen.cfg:381
+msgid "Really?"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/08_Battle_with_the_Unseen.cfg:385
+msgid ""
+"We believe that you are one of the three mentioned in the legend, I am "
+"another."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/08_Battle_with_the_Unseen.cfg:389
+msgid ""
+"I... do not have trouble believing that. I assume this means that you wish "
+"me to journey with you to find the last?"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/08_Battle_with_the_Unseen.cfg:393
+msgid ""
+"Yes we must find the human living in the Verendace Mountains with the warg."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/08_Battle_with_the_Unseen.cfg:397
+msgid ""
+"Then I will go and gather what men I have left under my command and go with "
+"you."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/08_Battle_with_the_Unseen.cfg:401
+msgid ""
+"We promised your liege, that first we would take this honored craftsman to "
+"the temple of the deep to craft an artefact that would allow us to see foes "
+"that would be concealed."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/08_Battle_with_the_Unseen.cfg:405
+msgid ""
+"That sounds like a practical thing to do, even if it slows down our quest."
+msgstr ""
+
+#. [scenario]: id=Wotd_third
+#: scenarios/03_Swift.cfg:6
+msgid "Swiftly South"
+msgstr ""
+
+#. [side]: type=Swordsman, id=hleader
+#: scenarios/03_Swift.cfg:54
+msgid "Captain Yeti"
+msgstr ""
+
+#. [side]: type=Cavalryman, id=hleader2
+#: scenarios/03_Swift.cfg:73
+msgid "Joris"
+msgstr ""
+
+#. [part]
+#: scenarios/03_Swift.cfg:87
+msgid ""
+"Chapter II (continued):\n"
+"'The warg were infected with Rav Flu, a disease which makes them chaotic and "
+"bloodthirsty.'"
+msgstr ""
+
+#. [part]
+#: scenarios/03_Swift.cfg:91
+msgid "'After defeating them, we headed again down the mountain side.'"
+msgstr ""
+
+#. [part]
+#: scenarios/03_Swift.cfg:94
+msgid ""
+"'We have just reached the base of the mountain. I see a human settlement in "
+"the distance.'"
+msgstr ""
+
+#. [message]: id=hleader
+#: scenarios/03_Swift.cfg:105
+msgid ""
+"Joris, look there in that pass. The windsong are coming! Quick get back to "
+"the village to rally our cavalry and some militia, I'll hold them off with "
+"the patrol."
+msgstr ""
+
+#. [message]: id=hleader2
+#: scenarios/03_Swift.cfg:109
+msgid "Yes, sir."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/03_Swift.cfg:113
+msgid ""
+"We haven't come to raid you, let us pass, or we will force our way through."
+msgstr ""
+
+#. [message]: id=hleader
+#: scenarios/03_Swift.cfg:117
+msgid ""
+"Even if you aren't come to raid us, we'll fight you. For generations you've "
+"stolen our daughters including mine, and we'll not give up a chance to take "
+"some of that back."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/03_Swift.cfg:121
+msgid "I could be your daughter."
+msgstr ""
+
+#. [message]: id=hleader
+#: scenarios/03_Swift.cfg:125
+msgid "!"
+msgstr ""
+
+#. [message]: id=hleader
+#: scenarios/03_Swift.cfg:129
+msgid "That's unlikely... and I won't be stopped by mere words, witch."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/03_Swift.cfg:133
+msgid "We don't have time to chat, let's go."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/03_Swift.cfg:138
+msgid "Move Alloria to the southern end of the road."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/03_Swift.cfg:142
+msgid "or Defeat both enemy leaders"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/03_Swift.cfg:156 scenarios/03_Swift.cfg:184
+msgid "How much more human lands must we travel through?"
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/03_Swift.cfg:160
+msgid ""
+"If we turn west at the next crossroads we should move past a human city, and "
+"from then we can take a road south over Municks Bridge over the deep river, "
+"and into the Hard Woods."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/03_Swift.cfg:164 scenarios/03_Swift.cfg:192
+msgid ""
+"I'm thinking it might be worth it to take a wide path around the city, "
+"fighting takes too much time, and we have limited numbers."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/03_Swift.cfg:168 scenarios/03_Swift.cfg:196
+msgid "Seems like a wise idea."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/03_Swift.cfg:188
+msgid ""
+"If we turn west at the next crossroads we should move through a human city, "
+"and from then we can take a road south over Municks Bridge over the deep "
+"river, and into the Hard Woods."
+msgstr ""
+
+#. [scenario]: id=Wotd_start
+#: scenarios/01_Start.cfg:10
+msgid "The Journey Begins"
+msgstr ""
+
+#. [unit]: type=EOM_Oathkeeper, id=Lisaundra
+#: scenarios/01_Start.cfg:56
+msgid "Lisuandra"
+msgstr ""
+
+#. [side]: type=EOM_Librarian, id=wleader
+#: scenarios/01_Start.cfg:71
+msgid "Esmerelda"
+msgstr ""
+
+#. [part]
+#: scenarios/01_Start.cfg:76
+msgid ""
+"War of the Dragon, by Alloria of the Prophetess caste. 'Chapter I :\n"
+"I now begin my record of the events at the start of the Age of the Dragon. I "
+"record them as I live them, for it is possible that none will get a chance "
+"to record them after they happen.'"
+msgstr ""
+
+#. [part]
+#: scenarios/01_Start.cfg:80
+msgid ""
+"'It came to be, that one of our great volumes told of the dawn of a new age. "
+"The Prophecies of Miriam dictated to us the signs to look for, and the "
+"record in which she kept the prophecies of the events of the age.'"
+msgstr ""
+
+#. [part]
+#: scenarios/01_Start.cfg:83
+msgid ""
+"'The signs began to show, and we recovered the record. The record listed the "
+"four major events of the age, and presented two possible outcomes for each.'"
+msgstr ""
+
+#. [part]
+#: scenarios/01_Start.cfg:86
+msgid ""
+"'The first event was The War of the Dragon, after which this record is "
+"named. In this event the Dark Dragon Kzardizin will awaken and once again "
+"make a bid for control of the world. The prophecy stated, that either he "
+"would succeed, or three champions would rise to defeat him.'"
+msgstr ""
+
+#. [part]
+#: scenarios/01_Start.cfg:89
+msgid ""
+"'Even before the record was found strange things had been seen. Walking "
+"dead, abundances of devlings and elementals, and even rumors of dragon "
+"bloods from the south.'"
+msgstr ""
+
+#. [part]
+#: scenarios/01_Start.cfg:92
+msgid ""
+"'Now the world has erupted in war on many fronts. The Celestials are pressed "
+"hard from the south, vampires in the east are being pressured to ally with "
+"the dragon or die, Therians have found themselves pressed hard, and some "
+"have been driven mad or forced into servitude. The elementals have shown in "
+"large numbers but are unorganized and leaderless. Kzardizin has cast a "
+"plague of Rav Flu driving many warg insane, and forcing the rest to stay "
+"away from him. The stronger human city states have not the strength to "
+"resist the Legions of the Dragon.'"
+msgstr ""
+
+#. [part]
+#: scenarios/01_Start.cfg:95
+msgid ""
+"'We the Windsong prepare for the inevitable onslaught. We are not great in "
+"number, but we will never surrender. As I finish this account, I leave the "
+"many warriors making ready to fight around me, for I have been summoned by "
+"the head librarian to the tower of audience.'"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/01_Start.cfg:130
+msgid "I have come."
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/01_Start.cfg:134
+msgid ""
+"I have called you up to the high tower to discuss the future. You know of "
+"the prophecy concerning the Age of the Dragon."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/01_Start.cfg:138
+msgid "Yes, mistress."
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/01_Start.cfg:142
+msgid ""
+"After searching through our records I have found Miriam's notes about her "
+"prophecies. They were of course written in a code that could only be "
+"translated once the scroll has be read, but I have solved the riddle."
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/01_Start.cfg:146
+msgid ""
+"The gist of the document once translated is that all three champions will be "
+"of the race of man. One will be a disciple of windsong with six fingers on "
+"her left hand."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/01_Start.cfg:150
+msgid "Me..."
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/01_Start.cfg:154
+msgid ""
+"Yes. Another champion lives among the celestials in the west. The other will "
+"be found living among the warg in the Verendace Mountain with a band of "
+"humans."
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/01_Start.cfg:158
+msgid ""
+"It is clear that unless we wish the dragon to dominate the world that we "
+"must gather the three champions that will force it back into sleep. We alone "
+"have the knowledge needed to find them, thus it is our responsibility to "
+"gather them."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/01_Start.cfg:162
+msgid "I understand the task ahead, and I will serve."
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/01_Start.cfg:166
+msgid "Good. You will leave at dawn tomorrow. Prepare yourself for then."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/01_Start.cfg:170
+msgid "Am I to go alone?"
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/01_Start.cfg:174
+msgid ""
+"You may take a portion of our forces with you. We will not be able to "
+"reinforce you afterwards so choose whom you bring carefully. In addition you "
+"will have loan of Lisaundra, a mighty warrior."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/01_Start.cfg:178
+msgid "My knowledge, skills, and loyalty are yours."
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/01_Start.cfg:182
+msgid ""
+"Now make ready, recruit the warriors you wish to take, and prepare "
+"provisions for your travel. Make a divination to decide which of the other "
+"champions to gather first."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/01_Start.cfg:187
+msgid "Recruit your army then end turn"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/01_Start.cfg:191
+msgid "Leave unprepared"
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/01_Start.cfg:217
+msgid "Do not return to this tower until you have completed your task."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/01_Start.cfg:237
+msgid ""
+"You can't play this campaign if you don't recruit your army now. There's no "
+"possibility to do that later. Also, your at disadvantage if you don't spend "
+"all your money now."
+msgstr ""
+
+#. [scenario]: id=Wotd_sixth
+#: scenarios/06_Lisaundra's_Stand.cfg:5
+msgid "Lisaundra's Stand"
+msgstr ""
+
+#. [unit]: id=captain, type=EOM_Sentinel
+#: scenarios/06_Lisaundra's_Stand.cfg:44
+msgid "Valiant"
+msgstr ""
+
+#. [side]: type=Dark Dragon, id=Dragon
+#. [unit]: type=Dark Dragon, id=Dragon
+#: scenarios/06_Lisaundra's_Stand.cfg:69
+#: scenarios/07_Fleeing_the_Dragon.cfg:491
+msgid "Kzardizin"
+msgstr ""
+
+#. [side]: type=Death Knight, id=minion
+#: scenarios/06_Lisaundra's_Stand.cfg:90
+msgid "Ceilus"
+msgstr ""
+
+#. [side]: type=Drake Enforcer, id=dleader3
+#: scenarios/06_Lisaundra's_Stand.cfg:109
+msgid "Wrought"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Lisaundra's_Stand.cfg:119
+msgid ""
+"Chapter V:\n"
+"'In the caves we battled many minions of the dragon including a mighty "
+"hydra, whom we defeated.'"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Lisaundra's_Stand.cfg:123
+msgid ""
+"'As I now walk in daylight I can see a settlement to what must be the west.'"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Lisaundra's_Stand.cfg:126
+msgid ""
+"'I have been suddenly seized upon by a inner dread. In the caves I felt the "
+"dark presence of the hydra, but this presence dwarfs it.'"
+msgstr ""
+
+#. [part]
+#: scenarios/06_Lisaundra's_Stand.cfg:129
+msgid ""
+"'The settlement is populated by celestials, all of whom seem to be very "
+"busy, and though they are a brave people, I can tell that they feel the fear "
+"too.'"
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:179
+msgid "I am surprised to see your kind here. You come at a bad time."
+msgstr ""
+
+#. [message]: id=fake
+#: scenarios/06_Lisaundra's_Stand.cfg:183
+msgid "It is because of bad times, that we come."
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:187
+msgid ""
+"If you are looking for refuge, you will not find it here, we've already used "
+"the last of our ships to evacuate this town."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:191
+msgid "What is the immediate emergency?"
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:195
+msgid ""
+"The Dragon himself is coming. We came here to evacuate the civilians before "
+"he could arrive. Unfortunately when we arrived the peoples of many villages "
+"had gathered together in this town, and there was not enough room on our "
+"ships for all of them and us, so we stayed..."
+msgstr ""
+
+#. [message]: id=fake
+#: scenarios/06_Lisaundra's_Stand.cfg:199
+msgid ""
+"The dragon himself... There is no way any of us could hope to defeat him at "
+"the moment."
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:203
+msgid ""
+"We knew this however we figure we might as well do what damage we can. It's "
+"not like we can run. According to our scouts he has brought only the "
+"swiftest of his warriors."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:207
+msgid "He knows what we are trying to do, and moves to stop us."
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:211
+msgid "What are you trying to do?"
+msgstr ""
+
+#. [message]: id=fake
+#: scenarios/06_Lisaundra's_Stand.cfg:215
+msgid "Are you aware of the prophecy concerning this war?"
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:219
+msgid "Aye, Hezadin spoke of it before he was slain by Kromire."
+msgstr ""
+
+#. [message]: id=fake
+#: scenarios/06_Lisaundra's_Stand.cfg:223
+msgid ""
+"In our libraries is a record of where we may find the three champions. We "
+"journey to the center of your realm to find one of them."
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:227
+msgid ""
+"That is greatly important, you must go, we will try to hold off the dragon's "
+"forces for as long as we can, though I wouldn't count on much. Take some of "
+"my soldiers with you."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:231
+msgid "I will stay with you and help you hold off the dragon."
+msgstr ""
+
+#. [message]: id=fake
+#: scenarios/06_Lisaundra's_Stand.cfg:235
+msgid ""
+"If you do this, you will certainly die, your services would probably be put "
+"to better use if you come with us."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:239
+msgid ""
+"Nay, if I go with you, these fools would be lucky to survive a single day "
+"and night against the dragons sorcery."
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:243
+msgid "What sorcery?"
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:247
+msgid ""
+"You have not read of the last time The Dragon roamed free. Among other great "
+"magics, he was well known for turning his entire armies invisible, covering "
+"the battlefield in dark shroud like night, that lasted for days, and turning "
+"his foes to the undead even as they are slain."
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:251
+msgid "What can you do against these dark magics?"
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:255
+msgid ""
+"After achieving entry to the Oathkeeper Caste I was gifted with eyes and "
+"ears to detect and dispel deceit, his illusions can not prosper against me. "
+"I also know a secret, that will prevent your men from being raised, at least "
+"for the length of the battle. I can do nothing about the great shroud if he "
+"conjures one."
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:259
+msgid ""
+"Such help would be greatly appreciated, and any other such help you can "
+"give. Alloria, take my less experienced men they will serve as an escort."
+msgstr ""
+
+#. [message]: id=fake
+#: scenarios/06_Lisaundra's_Stand.cfg:263
+msgid ""
+"If you believe that this is the best way that you can serve us, then stay as "
+"you will. Any other warriors you need from our force you may take, though "
+"don't take to many, for they will certainly share your fate."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:267
+msgid ""
+"Go with speed. Try to get to the great celestial city Optnic. If you can "
+"make it there, when otherwise you would not have, then this is not a vain "
+"sacrifice."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/06_Lisaundra's_Stand.cfg:278
+msgid "Last as long as possible against the Dragon's onslaught"
+msgstr ""
+
+#. [objectives]
+#: scenarios/06_Lisaundra's_Stand.cfg:282
+msgid ""
+"The longer you last, the longer it will take for the dragon to pursue you in "
+"the next scenario.\n"
+"Be careful who you recall, for those whom you bring into this level will "
+"surly die!"
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:291
+msgid "So what is this secret to avoid being raised?"
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:295
+msgid "Take Sythen root, purify it, and boil it in dragons blood."
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:299
+msgid "Sythen root does not grow around here."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:303
+msgid ""
+"Well then collect the dragons blood anyway, I'll be able to use it for a "
+"different magic."
+msgstr ""
+
+#. [message]: id=captain
+#: scenarios/06_Lisaundra's_Stand.cfg:307
+msgid "Vampire magics?"
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:311
+msgid ""
+"Don't be concerned. Rest assured that it will be used for a good purpose."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:342
+msgid "Blood of fire, take spirit and serve."
+msgstr ""
+
+#. [unit]: id=summoned, type=EOM_Fire_Wisp
+#: scenarios/06_Lisaundra's_Stand.cfg:347
+msgid "Blood Summoned"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: scenarios/06_Lisaundra's_Stand.cfg:414
+msgid "Hiss... I think they can see us somehow."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:426
+msgid ""
+"Without my sight, my remaining forces stand very little chance of holding "
+"out for any significant length of time, but at least I gave Alloria some "
+"time."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/06_Lisaundra's_Stand.cfg:492
+msgid "I feel strange, like a cold hand has gripped my heart... (!)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/06_Lisaundra's_Stand.cfg:500
+msgid ""
+"As the dragon's assassin spell slew Lisaundra, the main portion of his army "
+"arrived and the remaining celestials were crushed by foes they could not see."
+msgstr ""
+
+#. [scenario]: id=Wotd_eleventh
+#: scenarios/11_Temple_of_the_Deep.cfg:5
+msgid "Temple of the Deep"
+msgstr ""
+
+#. [side]: type=Merman Javelineer, id=gleader
+#: scenarios/11_Temple_of_the_Deep.cfg:50
+msgid "Hinbola"
+msgstr ""
+
+#. [side]: type=EOM_Tempest_Spirit, id=gleader2
+#: scenarios/11_Temple_of_the_Deep.cfg:65
+msgid "Undertow"
+msgstr ""
+
+#. [side]: type=Merman Hoplite, id=gleader3
+#: scenarios/11_Temple_of_the_Deep.cfg:79
+msgid "Justice"
+msgstr ""
+
+#. [side]: type=Merman Triton, id=gleader4
+#: scenarios/11_Temple_of_the_Deep.cfg:93
+msgid "Vengence"
+msgstr ""
+
+#. [side]: type=Mermaid Diviner, id=gleader4
+#: scenarios/11_Temple_of_the_Deep.cfg:106
+msgid "The Bishop"
+msgstr ""
+
+#. [part]
+#: scenarios/11_Temple_of_the_Deep.cfg:133
+msgid ""
+"'Chapter XI:\n"
+"We reached a spot where the water beneath us reeked of magic'"
+msgstr ""
+
+#. [part]
+#: scenarios/11_Temple_of_the_Deep.cfg:137
+msgid ""
+"'I invoked the incantation to summon the temple, and it obeyed my call, and "
+"rose to the surface.'"
+msgstr ""
+
+#. [part]
+#: scenarios/11_Temple_of_the_Deep.cfg:140
+msgid "'We now enter the temple to be greeted by the guardians.'"
+msgstr ""
+
+#. [part]
+#: scenarios/11_Temple_of_the_Deep.cfg:143
+msgid ""
+"'I had hoped that the guardians could be talked into joining us, but this "
+"seems not to be the case. Their souls are too bound to their duty. We "
+"disposed of the gate guards without difficulty, but the guardians within "
+"will be stronger.'"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/11_Temple_of_the_Deep.cfg:160
+msgid ""
+"Beware, the same magic that lifted this Temple from the deep can lower it "
+"back down."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/11_Temple_of_the_Deep.cfg:164
+msgid "Can you not just raise it out again?"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/11_Temple_of_the_Deep.cfg:168
+msgid ""
+"The incantation summons the temple, it does not raise it. If you are inside "
+"when you use it, it will merely tell it to come to where it already is."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/11_Temple_of_the_Deep.cfg:172
+msgid ""
+"If the island sinks then we'll all be drowned! Is there any way to stop this?"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/11_Temple_of_the_Deep.cfg:176
+msgid ""
+"We'll simply have to achieve control over the temples magic. Somewhere in "
+"here, the acolytes that built it must have inscribed some runes to make "
+"controlling it easier. If we can master more than half of them, then we "
+"should be able to determine whether or not the isle sinks or raises."
+msgstr ""
+
+#. [message]: id=Ruegur
+#: scenarios/11_Temple_of_the_Deep.cfg:180
+msgid ""
+"I'll need a lack of distractions when I set to working. You'll have to clear "
+"the temple of guardians."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/11_Temple_of_the_Deep.cfg:232
+msgid "Defeat the Guardians of the temple"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/11_Temple_of_the_Deep.cfg:266
+msgid "This is anti-climatic."
+msgstr ""
+
+#. [message]: id=Ruegur
+#: scenarios/11_Temple_of_the_Deep.cfg:270
+msgid "I hate water."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/11_Temple_of_the_Deep.cfg:561
+msgid ""
+"A secret stash was hidden in a hole in the roof. However there does not seem "
+"to be any way out besides the tunnel the water forced me through."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/11_Temple_of_the_Deep.cfg:584
+msgid ""
+"A hefty stash was hidden in a hole in the roof. However there does not seem "
+"to be any way out besides the tunnel the water forced me through."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/11_Temple_of_the_Deep.cfg:604
+msgid ""
+"This is the legendary triton of the hero Volshalas! It was thought to be "
+"lost when he died slaying the sea dragon. This is a great find. "
+"Unfortunately, there does not seem to be any way out of this chamber except "
+"by the hole the water forced me up."
+msgstr ""
+
+#. [object]: id=Trident
+#: scenarios/11_Temple_of_the_Deep.cfg:614
+msgid "Trident of the Seas"
+msgstr ""
+
+#. [object]: id=Trident
+#: scenarios/11_Temple_of_the_Deep.cfg:616
+msgid ""
+"This Trident grants you the ability to move through water, to use water to "
+"protect yourself, to use water to heal yourself, and can be used as a weak "
+"magical weapon."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/11_Temple_of_the_Deep.cfg:696
+#: scenarios/11_Temple_of_the_Deep.cfg:807
+#: scenarios/11_Temple_of_the_Deep.cfg:899
+#: scenarios/11_Temple_of_the_Deep.cfg:991
+#: scenarios/11_Temple_of_the_Deep.cfg:1083
+msgid ""
+"The Rune is unactivated (activating it will help cause the isle to start "
+"sinking)"
+msgstr ""
+
+#. [option]
+#: scenarios/11_Temple_of_the_Deep.cfg:698
+#: scenarios/11_Temple_of_the_Deep.cfg:809
+#: scenarios/11_Temple_of_the_Deep.cfg:901
+#: scenarios/11_Temple_of_the_Deep.cfg:993
+#: scenarios/11_Temple_of_the_Deep.cfg:1085
+msgid "Activate Rune"
+msgstr ""
+
+#. [option]
+#: scenarios/11_Temple_of_the_Deep.cfg:716
+#: scenarios/11_Temple_of_the_Deep.cfg:744
+#: scenarios/11_Temple_of_the_Deep.cfg:827
+#: scenarios/11_Temple_of_the_Deep.cfg:855
+#: scenarios/11_Temple_of_the_Deep.cfg:919
+#: scenarios/11_Temple_of_the_Deep.cfg:947
+#: scenarios/11_Temple_of_the_Deep.cfg:1011
+#: scenarios/11_Temple_of_the_Deep.cfg:1039
+#: scenarios/11_Temple_of_the_Deep.cfg:1103
+#: scenarios/11_Temple_of_the_Deep.cfg:1131
+msgid "Do nothing"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/11_Temple_of_the_Deep.cfg:724
+#: scenarios/11_Temple_of_the_Deep.cfg:835
+#: scenarios/11_Temple_of_the_Deep.cfg:927
+#: scenarios/11_Temple_of_the_Deep.cfg:1019
+#: scenarios/11_Temple_of_the_Deep.cfg:1111
+msgid ""
+"The Rune is activated (unactivating it will help cause the isle to start "
+"rising)"
+msgstr ""
+
+#. [option]
+#: scenarios/11_Temple_of_the_Deep.cfg:726
+#: scenarios/11_Temple_of_the_Deep.cfg:837
+#: scenarios/11_Temple_of_the_Deep.cfg:929
+#: scenarios/11_Temple_of_the_Deep.cfg:1021
+#: scenarios/11_Temple_of_the_Deep.cfg:1113
+msgid "un-Activate Rune"
+msgstr ""
+
+#. [message]: id=Sentinel
+#: scenarios/11_Temple_of_the_Deep.cfg:776
+msgid ""
+"Be gone from these halls. I have already dispatched elementals to sink the "
+"isle, your only hope of survival is to escape."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/11_Temple_of_the_Deep.cfg:780
+msgid ""
+"So kind of you to look out for our survival, but we can take care of "
+"yourselves."
+msgstr ""
+
+#. [message]: id=Sentinel
+#: scenarios/11_Temple_of_the_Deep.cfg:784
+msgid "Your pride and lack of lungs will be your bane."
+msgstr ""
+
+#. [message]: id=Ruegur
+#: scenarios/11_Temple_of_the_Deep.cfg:1172
+msgid ""
+"We have defeated the guardians, bring me my tools, I've only got me hammer "
+"wit' me. I'll need the rest of them too."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/11_Temple_of_the_Deep.cfg:1176
+msgid ""
+"I am curious, how do you intend to make an artefact out of water with a "
+"hammer?"
+msgstr ""
+
+#. [message]: id=Ruegur
+#: scenarios/11_Temple_of_the_Deep.cfg:1180
+msgid ""
+"Don't be daft. I'm going to build bridges so that we can get around this "
+"place more easily. I'll worry about the artefact afterwards."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/11_Temple_of_the_Deep.cfg:1184
+msgid "Bridges? We don't have time to worry about bridges!"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/11_Temple_of_the_Deep.cfg:1188
+msgid "He is right. Start on the gem now."
+msgstr ""
+
+#. [scenario]: id=Wotd_tenth
+#: scenarios/10_Pirates.cfg:6
+msgid "Pirates"
+msgstr ""
+
+#. [side]: type=Master at Arms, id=pleader
+#: scenarios/10_Pirates.cfg:54
+msgid "Nicholas Dove"
+msgstr ""
+
+#. [side]: type=Fugitive, id=rleader1
+#: scenarios/10_Pirates.cfg:68
+msgid "Rockfish"
+msgstr ""
+
+#. [side]: type=General, id=rleader2
+#: scenarios/10_Pirates.cfg:81
+msgid "Justinian"
+msgstr ""
+
+#. [side]: type=Highwayman, id=rleader3
+#: scenarios/10_Pirates.cfg:94
+msgid "Red Jack"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Pirates.cfg:100
+msgid ""
+"'Chapter X:\n"
+"As we set sail, I felt the mind of the dragon probing for us.'"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Pirates.cfg:104
+msgid ""
+"'It must have found us for as soon as we were on the open sea we encountered "
+"a fierce storm.'"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Pirates.cfg:107
+msgid ""
+"'Our ships have been blown against the rocks surrounding some island. From "
+"my vantage point I can see all our ships, only one of them is still afloat.'"
+msgstr ""
+
+#. [part]
+#: scenarios/10_Pirates.cfg:110
+msgid ""
+"'A number of ships are sailing out of a sheltered harbor in the island. I "
+"see that each of them flies the Jolly Roger.'"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/10_Pirates.cfg:134
+msgid "This first turn I'll establish which troops were on which ship."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/10_Pirates.cfg:143
+msgid "Defeat the Pirates"
+msgstr ""
+
+#. [message]: id=pleader
+#: scenarios/10_Pirates.cfg:208
+msgid "Look lads, we've had our loot brought right too us!"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/10_Pirates.cfg:212
+msgid "Pirates? We are very fortunate."
+msgstr ""
+
+#. [message]: id=rleader1
+#: scenarios/10_Pirates.cfg:216
+msgid ""
+"And apparently it's a very willing comely wench! (cue snickers from the crew)"
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/10_Pirates.cfg:220
+msgid "Touch not the lady, or you'll feel my steel."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/10_Pirates.cfg:224
+msgid ""
+"You misunderstand. We are fortunate to have replacement ships so readily "
+"available."
+msgstr ""
+
+#. [message]: id=Ruegur
+#: scenarios/10_Pirates.cfg:228
+msgid "I'll give them steel whether 'they touch the lady' or not."
+msgstr ""
+
+#. [message]: id=pleader
+#: scenarios/10_Pirates.cfg:232
+msgid "Feisty fish."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/10_Pirates.cfg:249
+msgid "Poor fools."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/10_Pirates.cfg:253
+msgid "Do you honestly feel sympathy for these knaves?"
+msgstr ""
+
+#. [message]: id=Ruegur
+#: scenarios/10_Pirates.cfg:257
+msgid ""
+"I'd always say that being a fool is a position worthy of sympathy, but it "
+"does not matter now let's be off with their ships."
+msgstr ""
+
+#. [scenario]: id=Wotd_second
+#: scenarios/02_Encounter.cfg:6
+msgid "An Encounter"
+msgstr ""
+
+#. [side]: type=EOM_Warrior_Warg, id=wleader
+#: scenarios/02_Encounter.cfg:54
+msgid "Root"
+msgstr ""
+
+#. [part]
+#: scenarios/02_Encounter.cfg:62
+msgid ""
+"'Chapter II:\n"
+"In the tower, I was informed that according to some record, I was to be one "
+"of the three champions. I was ordered by the librarian to gather up the "
+"other two, and granted a small army, and one of Windsongs greatest warriors.'"
+msgstr ""
+
+#. [part]
+#: scenarios/02_Encounter.cfg:66
+msgid ""
+"'After meditating a few hours I've concluded that it would be best to seek "
+"the champion the record says will be a human dwelling with the celestials. "
+"My armies have lost no time in marching to the southwest through the "
+"bearsfoot trail.'"
+msgstr ""
+
+#. [part]
+#: scenarios/02_Encounter.cfg:69
+msgid "'I now break my recording, for I hear the howls of a warg pack nearby."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/02_Encounter.cfg:80
+msgid "Greetings children of earth."
+msgstr ""
+
+#. [message]: id=wleader
+#: scenarios/02_Encounter.cfg:84
+msgid "sniff (Snarl) (Snap!) (Growl)"
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/02_Encounter.cfg:88
+msgid "They're infested, the Rav Flu must be spreading north."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/02_Encounter.cfg:92
+msgid "Maybe the dragon is moving northward from his stronghold in the south."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/02_Encounter.cfg:96
+msgid ""
+"He probably knows about the prophecy too, and would work to kill the "
+"champions before they can threaten him."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/02_Encounter.cfg:100
+msgid "We should put these warg out of their misery."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/02_Encounter.cfg:104
+msgid "Then we shall."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/02_Encounter.cfg:109
+msgid "Defeat the maddened warg"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/02_Encounter.cfg:123
+msgid ""
+"I think the spread of the plague bodes that we should move as swiftly as "
+"possible."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/02_Encounter.cfg:127
+msgid ""
+"The swiftest route is dangerous because it sends us through lands controlled "
+"by humans. They don't take to well to our kind for stealing their young."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/02_Encounter.cfg:131
+msgid ""
+"I was one such young myself, and so were you, and I don't think we are worse "
+"off from it."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/02_Encounter.cfg:135
+msgid "I imagine they don't see it that way."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/02_Encounter.cfg:139
+msgid ""
+"We'll have to risk their lands, we have not time to lose going the long way "
+"around."
+msgstr ""
+
+#. [scenario]: id=Wotd_seventh
+#: scenarios/07_Fleeing_the_Dragon.cfg:5
+msgid "Fleeing the Dragon"
+msgstr ""
+
+#. [unit]: id=Michael, type=EOM_Messenger
+#: scenarios/07_Fleeing_the_Dragon.cfg:46
+msgid "Michael"
+msgstr ""
+
+#. [side]: type=Death Knight, id=tleader
+#: scenarios/07_Fleeing_the_Dragon.cfg:95
+msgid "Seth"
+msgstr ""
+
+#. [side]: type=EOM_Garou, id=wleader
+#: scenarios/07_Fleeing_the_Dragon.cfg:116
+msgid "Itches"
+msgstr ""
+
+#. [side]: type=EOM_Sicarius, id=cleader
+#: scenarios/07_Fleeing_the_Dragon.cfg:136
+msgid "Bard"
+msgstr ""
+
+#. [side]: type=Outlaw, id=xleader
+#: scenarios/07_Fleeing_the_Dragon.cfg:180
+msgid "Blackpaw"
+msgstr ""
+
+#. [part]
+#: scenarios/07_Fleeing_the_Dragon.cfg:224
+msgid ""
+"Chapter VI:\n"
+"'Lisaundra has given her life to buy us some time. We honor her as a mighty "
+"warrior.'"
+msgstr ""
+
+#. [part]
+#: scenarios/07_Fleeing_the_Dragon.cfg:228
+msgid "'We move rapidly south to try to get to the Celestial Stronghold.'"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/07_Fleeing_the_Dragon.cfg:236
+msgid ""
+"I should not tarry long to recruit nor recall slower warriors. The Dragon "
+"will soon come with swift troops and we should try to get as far away as "
+"possible."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/07_Fleeing_the_Dragon.cfg:241
+msgid "Escape the Dragon to the south"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/07_Fleeing_the_Dragon.cfg:265
+msgid "Fools, you're bringing the dragon upon me!"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/07_Fleeing_the_Dragon.cfg:269
+msgid "I assure you that was not our intention."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/07_Fleeing_the_Dragon.cfg:273
+msgid "As if that matters."
+msgstr ""
+
+#. [message]: race=EOM_celestial,celestial
+#: scenarios/07_Fleeing_the_Dragon.cfg:277
+msgid ""
+"I don't mean to intrude, but what are we doing stopping to speak to a "
+"vampire. We should slay him immediately. The vampires are minions of the "
+"dragon."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/07_Fleeing_the_Dragon.cfg:281
+msgid ""
+"I don't intend to ally myself with the dragon, thus I must slay you before "
+"he gets close enough to notice my presence."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/07_Fleeing_the_Dragon.cfg:285
+msgid "You haven't a chance of defeating us."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/07_Fleeing_the_Dragon.cfg:289
+msgid ""
+"I've a better chance against you than I do against the dragon. I can't "
+"return to the mountains for I've been exiled by Count Evenyer for not being "
+"willing to accept the inevitable and ally with the dragon."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/07_Fleeing_the_Dragon.cfg:293
+msgid ""
+"I'd offer to take you with us, except that I reckon that where we're going "
+"that may be a death sentence. However you could just let us pass."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/07_Fleeing_the_Dragon.cfg:297
+msgid ""
+"If I do then the dragon will pursue you through me. My only chance is to "
+"slay you so that he does not feel the need to come here."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/07_Fleeing_the_Dragon.cfg:318
+msgid "Who are you?"
+msgstr ""
+
+#. [unit]: type=Silver Mage, id=Will
+#: scenarios/07_Fleeing_the_Dragon.cfg:325
+msgid "Will"
+msgstr ""
+
+#. [message]: id=Will
+#: scenarios/07_Fleeing_the_Dragon.cfg:358
+msgid "Someone who can't find a safe place to research anything."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/07_Fleeing_the_Dragon.cfg:362
+msgid "That doesn't answer the question."
+msgstr ""
+
+#. [message]: id=Will
+#: scenarios/07_Fleeing_the_Dragon.cfg:366
+msgid ""
+"My name is Will. I've been trying to research artefacts of the faerie kind. "
+"Every time I've gotten anywhere, something comes up, and in this case I'd "
+"have to be dead to not notice certain doom approaching."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/07_Fleeing_the_Dragon.cfg:370
+msgid "Aren't you going to try to escape?"
+msgstr ""
+
+#. [message]: id=Will
+#: scenarios/07_Fleeing_the_Dragon.cfg:374
+msgid ""
+"I can use my magic to escape at any time I want, but first I mean to make a "
+"deal with the faerie who lives in the woods. However, the way is dangerous. "
+"If you can help me get there alive, I'll make it up to you later."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/07_Fleeing_the_Dragon.cfg:378
+msgid ""
+"Dealing with faerie is dangerous, she'd probably take you under the hill "
+"before listen to you."
+msgstr ""
+
+#. [message]: id=Will
+#: scenarios/07_Fleeing_the_Dragon.cfg:382
+msgid "That is what I'm hoping."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/07_Fleeing_the_Dragon.cfg:396
+msgid "Come to me..."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/07_Fleeing_the_Dragon.cfg:400
+msgid "Don't step into the mushroom ring."
+msgstr ""
+
+#. [message]: id=Will
+#: scenarios/07_Fleeing_the_Dragon.cfg:404
+msgid "I know what I'm doing."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/07_Fleeing_the_Dragon.cfg:433
+msgid "She took them under the hill, we'll never find them again."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/07_Fleeing_the_Dragon.cfg:463
+msgid "Looks like he got what he wanted."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/07_Fleeing_the_Dragon.cfg:567
+msgid "I can sense that the Dragon's forces are coming close."
+msgstr ""
+
+#. [message]: id=Devling Chief
+#: scenarios/07_Fleeing_the_Dragon.cfg:662
+msgid "Get em!"
+msgstr ""
+
+#. [message]: id=cleader
+#: scenarios/07_Fleeing_the_Dragon.cfg:696
+msgid ""
+"Fortune smiles. Welcome to our city. Our ruler has been looking for your "
+"kind."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/07_Fleeing_the_Dragon.cfg:700
+msgid ""
+"Convenient. We wish to see your ruler. Beware, the Dragon's armies follow "
+"us, and fight under cover of the dragon's sorcery."
+msgstr ""
+
+#. [message]: id=cleader
+#: scenarios/07_Fleeing_the_Dragon.cfg:704
+msgid ""
+"We will send you along to the capital as swiftly as possible. We knew the "
+"dragon was coming, and we've prepared for him. We may not be able to hold "
+"him off forever, but sorcery or not, we won't go down without an incredible "
+"fight."
+msgstr ""
+
+#. [message]: id=Will
+#: scenarios/07_Fleeing_the_Dragon.cfg:713
+msgid ""
+"I guess I didn't get to accomplish my objective, and I'm certainly not going "
+"back now. Farewell, I don't imagine we will see each other again. (he "
+"vanishes in a puff of smoke)"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/07_Fleeing_the_Dragon.cfg:736
+msgid ""
+"Be careful. These warg may be of stronger stock than the ones I saw earlier, "
+"but they are just as infested."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/07_Fleeing_the_Dragon.cfg:750
+msgid ""
+"The celestials are getting sloppy or overextended. These undead were in "
+"their territory even before the dragon came, and yet they did not eliminate "
+"them."
+msgstr ""
+
+#. [scenario]: id=Wotd_nineth
+#: scenarios/09_Taking_to_Sea.cfg:6
+msgid "Taking_to_Sea"
+msgstr ""
+
+#. [side]: type=EOM_Claimant, id=cleader
+#: scenarios/09_Taking_to_Sea.cfg:53
+msgid "David"
+msgstr ""
+
+#. [side]: type=EOM_Aura_Master, id=rleader1
+#: scenarios/09_Taking_to_Sea.cfg:210
+msgid "Sedate"
+msgstr ""
+
+#. [side]: type=General, id=rleader2
+#: scenarios/09_Taking_to_Sea.cfg:237
+msgid "Tontos"
+msgstr ""
+
+#. [side]: type=Arch Mage, id=rleader3
+#. [unit]: type=Arch Mage, id=fake
+#: scenarios/09_Taking_to_Sea.cfg:278 scenarios/09_Taking_to_Sea.cfg:412
+msgid "Kelcles"
+msgstr ""
+
+#. [part]
+#: scenarios/09_Taking_to_Sea.cfg:354
+msgid ""
+"'Chapter IX:\n"
+"We have our second champion, and with him we embark towards the Temple of "
+"the Deep.'"
+msgstr ""
+
+#. [part]
+#: scenarios/09_Taking_to_Sea.cfg:358
+msgid "'We head to the city known as Korp-Vask where we intend to get ships.'"
+msgstr ""
+
+#. [part]
+#: scenarios/09_Taking_to_Sea.cfg:361
+msgid ""
+"'It has taken us half a week, and I can now see the city. Camped by the road "
+"leading to it are many people.'"
+msgstr ""
+
+#. [part]
+#: scenarios/09_Taking_to_Sea.cfg:364
+msgid ""
+"'I have been told that we will not be allowed into the city by a human "
+"child, and I replied that I would be'"
+msgstr ""
+
+#. [part]
+#: scenarios/09_Taking_to_Sea.cfg:367
+msgid ""
+"'I am now inside the city, and it looks as though the cities seen better "
+"years, as parts of it have been burned down, and others torn down. There "
+"seem to be large numbers of non-celestials in city.'"
+msgstr ""
+
+#. [message]: id=cleader
+#: scenarios/09_Taking_to_Sea.cfg:384
+msgid ""
+"If you are more refugees, then I'm afraid I'm going to have to tell you to "
+"camp outside the city."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/09_Taking_to_Sea.cfg:388
+msgid "Nay, we've got a mission from the king."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/09_Taking_to_Sea.cfg:392
+msgid ""
+"We will need to commodore your fleet. We believe that if we can reach the "
+"Temple of the Deep, then we'll be able to counter the dragons invisibility "
+"spells."
+msgstr ""
+
+#. [message]: id=cleader
+#: scenarios/09_Taking_to_Sea.cfg:396
+msgid ""
+"We've been using our fleet to move refugees to the fortress of Magewyre. It "
+"left just a few hours ago, and shouldn't be back for about five days. The "
+"only ships we have here are those too big to sail up the river."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/09_Taking_to_Sea.cfg:400
+msgid "I guess we'll just have to wait then."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/09_Taking_to_Sea.cfg:404
+msgid "A few hours later, an image of a mage appears."
+msgstr ""
+
+#. [message]: id=fake
+#: scenarios/09_Taking_to_Sea.cfg:416
+msgid "Why have these been allowed in, when we were told to wait outside?"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/09_Taking_to_Sea.cfg:420
+msgid ""
+"We are not refugees. We're here on a mission to help the king fight the "
+"dragon."
+msgstr ""
+
+#. [message]: id=fake
+#: scenarios/09_Taking_to_Sea.cfg:424
+msgid ""
+"Gah, stupid celestials can't figure out that trying to fight the dragon is "
+"useless!"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/09_Taking_to_Sea.cfg:428
+msgid ""
+"Not so, the dragon's armies can be defeated, and once we reach the Temple of "
+"the Deep, we'll be able to forge an artefact that will null his invisibility."
+msgstr ""
+
+#. [message]: id=fake
+#: scenarios/09_Taking_to_Sea.cfg:432
+msgid ""
+"You're heading to the Temple of the Deep? That'll use up the ships that we "
+"need to use!"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/09_Taking_to_Sea.cfg:436
+msgid ""
+"We will slow down your exodus that is true, but the results will be worth it."
+msgstr ""
+
+#. [message]: id=fake
+#: scenarios/09_Taking_to_Sea.cfg:440
+msgid ""
+"NO THEY WON'T! You'll die trying to fight the dragon with that device, we'll "
+"die while you attempt to get said device!"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/09_Taking_to_Sea.cfg:444
+msgid "Have you no faith in the prophecy?"
+msgstr ""
+
+#. [message]: id=fake
+#: scenarios/09_Taking_to_Sea.cfg:448
+msgid ""
+"I've never trusted the windsong. You always sit around in your icy mountains "
+"claiming to know the secrets of the world, and what's best for us and what "
+"our destiny is, and you steal children. No I have no faith in your "
+"prophecies, and they won't save you. We're taking control of your city."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/09_Taking_to_Sea.cfg:452
+msgid "Don't be foolish, you have not the strength to take the city by force."
+msgstr ""
+
+#. [message]: id=fake
+#: scenarios/09_Taking_to_Sea.cfg:456
+msgid ""
+"And you're arrogant too. Don't be so sure. I'm an arch mage who has learned "
+"to master elementals, and I know a large number of former warriors who are "
+"desperate to live."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/09_Taking_to_Sea.cfg:463
+msgid ""
+"Pity we could not recruit him. One who can control elementals would be "
+"invaluable to us."
+msgstr ""
+
+#. [message]: id=Hector
+#: scenarios/09_Taking_to_Sea.cfg:467
+msgid "He's a coward, we can do without his kind."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: scenarios/09_Taking_to_Sea.cfg:471
+msgid "Note: This is the last scenario to recruit Celestials."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/09_Taking_to_Sea.cfg:477
+msgid "Defend the city from the refugees"
+msgstr ""
+
+#. [message]: id=Vache
+#: scenarios/09_Taking_to_Sea.cfg:541
+msgid ""
+"Look at all them struggling worms! Take what you can get men, while their "
+"distracted."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/09_Taking_to_Sea.cfg:578
+msgid "The fleet has arrived. Pull back to the ships."
+msgstr ""
+
+#. [message]: id=rleader3
+#: scenarios/09_Taking_to_Sea.cfg:582
+msgid "No! Don't take the ships!"
+msgstr ""
+
+#. [message]: id=cleader
+#: scenarios/09_Taking_to_Sea.cfg:586
+msgid ""
+"Give it up already, if you haven't defeated us by now, you aren't going to "
+"do it in time, waste no more of your lives on this."
+msgstr ""
+
+#. [message]: id=rleader3
+#: scenarios/09_Taking_to_Sea.cfg:590
+msgid "We can't give up!"
+msgstr ""
+
+#. [message]: id=rleader2
+#: scenarios/09_Taking_to_Sea.cfg:594
+msgid "The wizards a fool, my men will surrender, lets cease this foolishness."
+msgstr ""
+
+#. [message]: id=rleader1
+#: scenarios/09_Taking_to_Sea.cfg:598
+msgid "Mine too will surrender."
+msgstr ""
+
+#. [message]: id=rleader2
+#: scenarios/09_Taking_to_Sea.cfg:626 scenarios/09_Taking_to_Sea.cfg:647
+msgid "Enough, I stand down."
+msgstr ""
+
+#. [message]: id=rleader3
+#: scenarios/09_Taking_to_Sea.cfg:630
+msgid "You can't stand down, we'll all die!"
+msgstr ""
+
+#. [message]: id=rleader2
+#: scenarios/09_Taking_to_Sea.cfg:634
+msgid ""
+"Tell that to Sedate. If you don't stop babbling, I'll stop your babbling by "
+"force."
+msgstr ""
+
+#. [message]: id=rleader1
+#: scenarios/09_Taking_to_Sea.cfg:651
+msgid "I too, would like no more part in this."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/09_Taking_to_Sea.cfg:655
+msgid ""
+"We will spare your lives. It was not our intention to waste our strength "
+"fighting neutrals."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/09_Taking_to_Sea.cfg:680
+msgid "I think I feel the presence of dragon scouts coming near."
+msgstr ""
+
+#. [message]: id=Ruegur
+#: scenarios/09_Taking_to_Sea.cfg:684
+msgid ""
+"I'm glad you're there to tell me these things. It's always good to know that "
+"you could be walking down a waiting throat without even knowing it."
+msgstr ""
+
+#. [scenario]: id=Wotd_fifth
+#: scenarios/05_Hydra.cfg:6
+msgid "The Way Under"
+msgstr ""
+
+#. [side]: type=tWotD_Hydra, id=hydra
+#: scenarios/05_Hydra.cfg:54
+msgid "Astifas"
+msgstr ""
+
+#. [side]: type=Saurian Oracle, id=minion
+#: scenarios/05_Hydra.cfg:74
+msgid "Slide"
+msgstr ""
+
+#. [side]: type=EOM_Devling_Warrior, id=dleader3
+#: scenarios/05_Hydra.cfg:94
+msgid "Sticky"
+msgstr ""
+
+#. [side]: type=Naga Myrmidon, id=hleader
+#: scenarios/05_Hydra.cfg:116
+msgid "Lurker"
+msgstr ""
+
+#. [unit]: type=EOM_Fire_Wisp, id=FE
+#: scenarios/05_Hydra.cfg:141
+msgid "Fury"
+msgstr ""
+
+#. [unit]: type=EOM_Undine, id=WE
+#: scenarios/05_Hydra.cfg:150
+msgid "Tsunami"
+msgstr ""
+
+#. [unit]: type=EOM_Djinn, id=AE
+#: scenarios/05_Hydra.cfg:159
+msgid "Hurricane"
+msgstr ""
+
+#. [unit]: type=EOM_Air, id=Gale
+#: scenarios/05_Hydra.cfg:168
+msgid "Gale"
+msgstr ""
+
+#. [unit]: type=EOM_Air, id=Current
+#: scenarios/05_Hydra.cfg:176
+msgid "Current"
+msgstr ""
+
+#. [unit]: type=EOM_Stone_Titan, id=EE
+#: scenarios/05_Hydra.cfg:185
+msgid "Synica"
+msgstr ""
+
+#. [unit]: type=EOM_Earth, id=Shale
+#: scenarios/05_Hydra.cfg:194
+msgid "Shale"
+msgstr ""
+
+#. [unit]: type=EOM_Earth, id=Granite
+#: scenarios/05_Hydra.cfg:202
+msgid "Granite"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Hydra.cfg:243
+msgid ""
+"Chapter IV:\n"
+"'The cavalry came to enlist help to fight off minions of The Dragon, and we "
+"came. We were informed that the route we had wished to take over the river "
+"had been destroyed, and we were informed of an alternate route.'"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Hydra.cfg:247
+msgid ""
+"'The route took us to the foot of the west mountains to an enormous opening "
+"from which the deep river flowed forth. We entered a hole in the side and "
+"are within the mountain. My hand writes from memory, for there is not enough "
+"light left to read by.'"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Hydra.cfg:250
+msgid ""
+"'The Enormous Caverns within seem to reek with the past destruction. Once a "
+"great kingdom was built on hilly area in this land. Then an angry force cast "
+"a mountain onto it, and buried it alive.'"
+msgstr ""
+
+#. [part]
+#: scenarios/05_Hydra.cfg:253
+msgid ""
+"'This hollow mountain forever drips waters from its cavities, and these "
+"drops formed the deep river that flows forth from its mouth. The river was "
+"thick with a foul ooze that seemed to steal the light that would have shone "
+"in it. As I looked into it, I felt a malicious presence. One that did not "
+"tolerate our existence.'"
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/05_Hydra.cfg:268
+msgid "Get Alloria to exit the cave on the other side of the river"
+msgstr ""
+
+#. [objective]: condition=lose
+#: scenarios/05_Hydra.cfg:276 scenarios/05_Hydra.cfg:381
+msgid "Death of Lisaundra"
+msgstr ""
+
+#. [message]: id=Hawken
+#: scenarios/05_Hydra.cfg:282
+msgid ""
+"I'm beginning to have second thoughts, there is something powerfully evil "
+"lurking in this place."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/05_Hydra.cfg:286
+msgid ""
+"Do not fear. The worst that could happen is that we could all die painfully."
+msgstr ""
+
+#. [message]: id=Hawken
+#: scenarios/05_Hydra.cfg:290
+msgid "Is that all? (eyeroll)"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:294
+msgid ""
+"It is too late for you to turn back. Discard your fears, they will do you no "
+"good. Yes there is something dark in these caves. It is a threat to be "
+"destroyed. Would you turn your back on the world for your own skin?"
+msgstr ""
+
+#. [message]: id=Hawken
+#: scenarios/05_Hydra.cfg:298
+msgid "When you put it that way, no."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:302
+msgid "Then fight."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/05_Hydra.cfg:320
+msgid ""
+"It is recorded in the Book of Temples, that there were four shrines to the "
+"natural elements that were protected from the mountain when it destroyed "
+"this place. Each was guarded by elementals of the appropriate element. We "
+"may be able to acquire their aid, for the elementals hate Kzardizin for what "
+"he did the last time he was awake."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:324
+msgid ""
+"That would require releasing them from the magical contracts that bind them "
+"to the place, which work is not beyond my ciphers. In order to bind them to "
+"a new one I'll need them to be capable of speech."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/05_Hydra.cfg:328
+msgid ""
+"That is a simple matter of getting a warrior to the shrine and having that "
+"warrior give the elemental her voice."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:332
+msgid "Let us find these shrines then."
+msgstr ""
+
+#. [message]: id=Hawken
+#: scenarios/05_Hydra.cfg:356
+msgid "Tis the hydra that destroyed the bridge!"
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: scenarios/05_Hydra.cfg:364
+msgid "Kill it quickly! It will regenerate fast if you don't."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:368
+msgid ""
+"We should not leave this place till we slay it, for it is one of the "
+"greatest minions of The Dragon."
+msgstr ""
+
+#. [objective]: condition=win
+#: scenarios/05_Hydra.cfg:373
+msgid "Kill the Hydra before leaving the cave"
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:399
+msgid ""
+"Something is up with these skulls... I feel something here, but it seems to "
+"avoid my magic aura."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:412
+msgid "I feel a strange aura here... but I can resist it."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:433
+msgid ""
+"There is something odd about these skulls... I think I hear voices... "
+"wait... no... ARAH, STOP TALKING THIS NONSENSE!!"
+msgstr ""
+
+#. [object]: id=Curse
+#: scenarios/05_Hydra.cfg:437
+msgid "Possessed"
+msgstr ""
+
+#. [object]: id=Curse
+#: scenarios/05_Hydra.cfg:439
+msgid ""
+"You've been possessed by the angry ghosts of this ruin who are bent on "
+"revenge. Their anger sets all melee attacks to berserk and the distraction "
+"of their voices removes your ZOC. However as an odd advantage of this "
+"possession you grow stronger and tougher."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:487
+msgid ""
+"This spear feels warm, and although I've never used such a weapon before, I "
+"feel familiar with its use."
+msgstr ""
+
+#. [object]: id=GuardianSpear
+#: scenarios/05_Hydra.cfg:491
+msgid "Guardian Spear"
+msgstr ""
+
+#. [object]: id=GuardianSpear
+#: scenarios/05_Hydra.cfg:493
+msgid ""
+"This was the spear used by the kings guard as he died defending his king. "
+"The spirit of the guard resides within the spear giving its skill and "
+"protection to the spears wielder."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:562
+msgid "This looks like a powerful spear."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:566
+msgid "But I'm not a heavy fighter, this is something for the windsong."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:580
+msgid ""
+"A nice spear... but I prefer fighting with my bare hands. I am sure one of "
+"the younger warrioresses will put good use to it."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:609
+msgid "Spirit of Fire I grant you my voice that you might speak."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:613
+msgid ""
+"(Very different tone) It is not meat that fire should speak, for what hath "
+"fire to say."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:617
+msgid "Fire speaks that it may bargain."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:621
+msgid ""
+"I have no need, I am bound by the shrine and may not leave. The very earth "
+"of the shrine gives fuel to my flames. I have nothing I can give, and "
+"nothing that I need."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:625
+msgid ""
+"I have authority to release your bondage that once again you may roam the "
+"earth."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:629
+msgid "By what authority can you work this marvel?"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:633
+msgid ""
+"I have authority as a prophet of windsong to remove the ciphers that bind "
+"you. I may unwrite, that which was written by one of my own."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:637
+msgid "What do you require of me in exchange for this release."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:641
+msgid ""
+"You must help me to destroy the minions of Kzardizin in this cave, and serve "
+"in my forces till both moons have circled each other thirteen times. You "
+"must also return my warriors voice to her. In exchange I will rewrite the "
+"contract that binds you."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:645
+msgid "To these terms I do agree to bind myself."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:649
+msgid ""
+"Give me a little time to work (time passes)... Your contract is written and "
+"the ciphers that bind you to your shine are removed. Give my warrior back "
+"her voice."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:653
+msgid "(back to normal), ... that was a rather odd experience."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:695
+msgid "Spirit of Water I grant you my voice that you might speak."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:699
+msgid ""
+"(Very different tone) Hrrl? Why thish ai ave noht neahd uf a voice! I shpeak "
+"with thee voice of storm and tide."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:703
+msgid "That voice is limited to this shallow temple."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:707
+msgid ""
+"The sea is timeless and patient I must only reside here till it runs dry, as "
+"it will in time."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:711
+msgid ""
+"I have authority to release your bondage you need not wait, and see this "
+"shrine dwindle away."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:715
+msgid "I am in no hurry, no reason to leave."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:719
+msgid ""
+"The world including the shard you embody is in danger, I would release you "
+"that you may protect it. For you know as do we, that Kzardizin does not care "
+"for the earth, and would dry the seas so that he could turn the sky into an "
+"eternal shroud with the moisture of it."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:723
+msgid ""
+"Even if he could do that, it would take magic of unimaginable quantity and "
+"quality to preform such a feat."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:727
+msgid ""
+"If we fail he will have the entire world to draw magic from, and he is a "
+"sorcerer of great skill and power."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:731
+msgid ""
+"Such a thing shall never come to pass, but that I am destroyed! Shatter my "
+"bonds and I will fight the Dragon at your side."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:735
+msgid ""
+"(short time later) Your bonds are loosened. Give my warrior back her voice."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:739
+msgid "(back to normal), ... That is a duty, I cannot relish."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:781
+msgid "Spirit of Air I grant you my voice that you might speak."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:785
+msgid "(Very different tone) What would I say?"
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:789
+msgid ""
+"I would like to free you in exchange for a short servitude in my forces to "
+"work towards a common goal."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:793
+msgid ""
+"I do not wish to leave, for within these hollowed halls I can feel the "
+"currents of the world, they bring me news and experiences that could not be "
+"equalled where I to wander."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:797
+msgid ""
+"Wind delights in change and new sights, from here you cannot cause change, "
+"even if you can see new sights."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:801
+msgid ""
+"Unlike others of my kind, I do not feel the need to fight the dragon. He'll "
+"cloud up the air with his eternal shroud, but the change might be refreshing."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:805
+msgid ""
+"What of these lesser spirits you keep by you, would you release them, since "
+"you have no need of them."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:809
+msgid ""
+"If they agree, you may take them from me with my good will, they desire "
+"within themselves the power and sights that I bear, and I'd feel more "
+"comfortable if you took them. Gale I grant you her voice, that you may speak."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:813
+msgid ""
+"I Gale would like to be away from this spirit who betrays the element he "
+"embodies. Current I grant you her voice that you may speak."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:817
+msgid ""
+"I likewise will follow, it is not the nature of air to be lazy and inert. I "
+"will return you voice to the warrior."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:821
+msgid ""
+"Your contract was simple because it was basically a servitude to an elder "
+"spirit which he voluntarily released you from."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:825
+msgid "(back to normal), My mouth feels dry."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:866
+msgid "Spirit of Earth I grant you my voice that you might speak."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:870
+msgid "(Very different tone) I don't think, that I have anything to say."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:874
+msgid ""
+"Kzardizin is out, and we would free you, if you would help us fight him."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:878
+msgid ""
+"I would take that offer, but unfortunately I can no longer lift this body I "
+"constructed long ago."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:882
+msgid ""
+"Your living in one place with no work has weakened your spirit, guarding "
+"this shrine so long has been bad for you."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:886
+msgid ""
+"I know, someday I'll shed this skin, and start over with a form that I can "
+"animate, but until then I'll stay in here, it is comfortable, and without me "
+"wedged between the floor and the roof, this cave would collapse."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:890
+msgid ""
+"However I would that you take these weaker spirits to fight the dragon. "
+"Neither of them have had much work, and I would not that they dwindle as I "
+"did. Maybe in time, they will become as strong as I once was. I will grant "
+"them your warriors voice that they may accept so that you can break their "
+"contract. Shale I grant you her voice that you may speak."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:894
+msgid ""
+"I Shale, do agree to serve you until next midsummer night, if you will "
+"release me from my current duties. Granite I grant you her voice that you "
+"may speak."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:898
+msgid ""
+"I Granite do also agree to serve you until next midsummer night under the "
+"same conditions."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:902
+msgid ""
+"Your contract was simple because it was basically a servitude to a stronger "
+"spirit which he voluntarily released you from. Give my warrior her voice "
+"back."
+msgstr ""
+
+#. [message]: speaker=unit
+#: scenarios/05_Hydra.cfg:906
+msgid "(back to normal).... Please don't make me do that again."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:938
+msgid "I will not leave without destroying the Hydra."
+msgstr ""
+
+#. [message]: id=Alloria
+#: scenarios/05_Hydra.cfg:944
+msgid ""
+"Let us continue to move quickly. The darkness behind us was stifling, but I "
+"feel something worse coming."
+msgstr ""
